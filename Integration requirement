@@ -1,0 +1,4 @@
+First gather the requirement. Post discussion with Todd we identified integration will use the snmp method.
+Held meeting with Todd and updated the mid server details in citratest alerts section.
+Port should be 162 which is already configured in Evanios Dev.
+Waiting for Todd to provide a sample alert.
